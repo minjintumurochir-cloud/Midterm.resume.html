@@ -39,8 +39,10 @@
     <header class="header">
       <div class="left">
         <div class="student-id">Student ID: 114035120</div>
-        <!-- Please upload photo01.jpg to the same folder as this HTML file -->
-        <img src="photo01.jpg" alt="Profile photo of Minjin" class="photo" />
+        <!-- Please upload ChatGPT Image Oct 21, 2025 at 10_12_42 AM.png
+ to the same folder as this HTML file -->
+        <img src="ChatGPT Image Oct 21, 2025 at 10_12_42 AM.png
+" alt="Profile photo of Minjin" class="photo" />
       </div>
 
       <div class="personal">
